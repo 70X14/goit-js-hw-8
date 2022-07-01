@@ -17,3 +17,4 @@ const timeWatch = localStorage.getItem('videoplayer-current-time');
     player.setCurrentTime(timeWatch);
     localStorage.removeItem('videoplayer-current-time');
     }
+    
